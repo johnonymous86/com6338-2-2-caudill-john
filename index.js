@@ -1,3 +1,1 @@
-function myFunction() {
-  console.log('clicked from external file!')
-}
+// Your code here
